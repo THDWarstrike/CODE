@@ -1,0 +1,52 @@
+ body{
+    text-align: center;
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.button1  {
+    background-color: #FFA500;
+} /* Orange */
+.button2 {
+    background-color: #ff0101;
+} /* Red */
+.button3{
+    background-color: gold;
+}/* Gold */
+.button4{
+    background-color: tomato;
+}
+h3{
+    color: goldenrod;
+    text-align: center;
+
+}
+ul{
+    color: whitesmoke;
+}
+body, #Pain{
+    background-image: url("../images/ninja.jpg");
+
+}
+body, #leaf{
+    background-image: url("../images/wp1937034.webp");
+}
+body, #Madara{
+    background-image: url("../images/madara-ucihha-wallpaper-naruto.jpg");
+}
+body, #Garra{
+    background-image: url("../images/d6gg3c9-374a9f7e-ea17-4d61-bbea-5f10009b24db.jpg");
+}
+body, #Jiriyah{
+    background-image: url("../images/Jiraiya_perfil.PNG-1.jpg");
+}

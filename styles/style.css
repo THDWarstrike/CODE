@@ -1,0 +1,26 @@
+body{
+    font-family: serif;
+    font-size: medium;
+    background-color:rgb(73, 51, 51);
+}
+h1{
+    color: rgb(160, 124, 194);
+}
+h2{
+    color: rgb(135, 92, 175);
+}
+p{
+    color: white;
+}
+ul{
+    color: pink;
+}
+.jumbotron{
+   background-image: url(./images/1383615.jpg); 
+   padding-top: 50px;
+   padding-bottom: 800px;
+   text-align: center;
+   text-decoration: red;
+   padding-left: 20px;
+   padding-right: 20px;
+}
