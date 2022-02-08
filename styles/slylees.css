@@ -1,7 +1,9 @@
  body{
     text-align: center;
 }
-
+ul{
+    list-style: none;
+}
 button {
     border: none;
     color: white;
@@ -35,18 +37,24 @@ ul{
     color: whitesmoke;
 }
 body, #Pain{
-    background-image: url("../images/ninja.jpg");
-
+    background-image: url("https://i.ytimg.com/vi/pTzqRfFXBJw/maxresdefault.jpg");
+    background-size: cover;
 }
 body, #leaf{
-    background-image: url("../images/wp1937034.webp");
+    background-image: url("https://wallpaper.dog/large/10703034.jpg");
+    background-size: cover;
 }
 body, #Madara{
-    background-image: url("../images/madara-ucihha-wallpaper-naruto.jpg");
+    background-image: url("https://wallpapercave.com/wp/wp8275461.jpg");
+    background-size: cover;
 }
 body, #Garra{
     background-image: url("../images/d6gg3c9-374a9f7e-ea17-4d61-bbea-5f10009b24db.jpg");
+    background-size: cover;
 }
 body, #Jiriyah{
     background-image: url("../images/Jiraiya_perfil.PNG-1.jpg");
+}
+#audiobtn{
+    background-color: indigo;
 }
